@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "622596686215",
+    "firebase_url": "https://bus-app-e092e-default-rtdb.firebaseio.com",
+    "project_id": "bus-app-e092e",
+    "storage_bucket": "bus-app-e092e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622596686215:android:f57696a2b2e8b8ecd11322",
+        "android_client_info": {
+          "package_name": "com.example.driverr_bus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeBLz-QpVfDVLzuNl00_tFSuF06-qG4cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622596686215:android:b83d0a670f2244b0d11322",
+        "android_client_info": {
+          "package_name": "com.example.userr_bus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeBLz-QpVfDVLzuNl00_tFSuF06-qG4cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
